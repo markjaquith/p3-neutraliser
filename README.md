@@ -16,4 +16,4 @@ Note that this plugin doesn't prevent injection of Pipdig JavaScript into your s
 4. Upload the zip file you downloaded.
 5. Activate the P3 Neutraliser plugin.
 
-[release]: https://github.com/markjaquith/p3-neutraliser/releases
+[release]: https://github.com/markjaquith/p3-neutraliser/releases/download/v1.0.0/p3-neutraliser-v1.0.0.zip

@@ -4,7 +4,7 @@
  * Description: Prevents the Pipdig P3 plugin from updating or making remote calls to Pipdig servers.
  * Author: Mark Jaquith
  * Author URI: http://coveredweb.com/
- * Version: 1.0
+ * Version: 1.0.0
  *
  * @package P3_Neutraliser
  */
@@ -47,7 +47,7 @@ class P3_Neutraliser_Plugin {
 	 * Private constructor.
 	 */
 	private function __construct() {
-		// Private. Use P3_Neutraliser_Plugin::get_instance().
+		$this->hook();
 	}
 
 	/**
